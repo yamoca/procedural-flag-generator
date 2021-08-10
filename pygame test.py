@@ -1,8 +1,7 @@
 import pygame
 import random
 
-this is a test
-this is also a test
+poggity poo
 # colors
 background = (40,44,52)
 red = (224,108,117)
