@@ -1,6 +1,8 @@
 import pygame
 import random
 
+this is a test
+
 # colors
 background = (40,44,52)
 red = (224,108,117)
